@@ -1,13 +1,13 @@
-# Iterable entities collection.
+# EntityInterface
 
-Iterable [Doctrine](https://www.doctrine-project.org/) entities collection.
+This repository provides a simple interface for entities called `EntityInterface`. 
 
 ## Installation
 
-This library is available through [Packagist](https://packagist.org/packages/codeinc/entities-collection) and can be installed using [Composer](https://getcomposer.org/): 
+This library is available through [Packagist](https://packagist.org/packages/codeinc/entity-interface) and can be installed using [Composer](https://getcomposer.org/): 
 
 ```bash
-composer require codeinc/entities-collection
+composer require codeinc/entity-interface
 ```
 
 ## License
