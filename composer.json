@@ -1,0 +1,29 @@
+{
+  "name": "codeinc/entity-interface",
+  "version": "1.0.0",
+  "description": "An interface for Code Inc.'s entities",
+  "homepage": "https://github.com/CodeIncHQ/EntityInterface",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "CodeInc\\EntityInterface\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Joan Fabrégat",
+      "email": "joan@codeinc.fr",
+      "homepage": "https://www.codeinc.fr",
+      "role": "developer"
+    }
+  ],
+  "config": {
+    "preferred-install": {
+      "*": "dist"
+    }
+  }
+}
