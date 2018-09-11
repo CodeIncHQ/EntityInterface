@@ -25,5 +25,8 @@
     "preferred-install": {
       "*": "dist"
     }
+  },
+  "suggest": {
+    "codeinc/entities-collection": "Iterable entities collection"
   }
 }
